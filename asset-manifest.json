@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/webdev.barnabee.studio/static/css/main.8f06215d.css",
+    "main.js": "/webdev.barnabee.studio/static/js/main.c0b87903.js",
+    "static/media/html.md": "/webdev.barnabee.studio/static/media/html.07eedb743bd757b4c6f0.md",
+    "index.html": "/webdev.barnabee.studio/index.html",
+    "static/media/storyOfWeb.md": "/webdev.barnabee.studio/static/media/storyOfWeb.a0dca8e54a8b03a1801c.md",
+    "static/media/welcome.md": "/webdev.barnabee.studio/static/media/welcome.897d2c52147319db614b.md",
+    "main.8f06215d.css.map": "/webdev.barnabee.studio/static/css/main.8f06215d.css.map",
+    "main.c0b87903.js.map": "/webdev.barnabee.studio/static/js/main.c0b87903.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f06215d.css",
+    "static/js/main.c0b87903.js"
+  ]
+}
