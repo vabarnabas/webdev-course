@@ -6,6 +6,6 @@
 
 A Berners-Lee által publikált dokumentumban szó esett egy *hiperszöveg* projektről, melyben a web hiperszöveg dokumentumokból épülne fel, amiket böngészőkben lehetne megtekinteni.
 
-Az első honlap még mai napig elérhető, viszont nagyon alapvető, mivel csak hiperszövegből állt.
+Az [első honlap](https://info.cern.ch/WWW/TheProject.html) még mai napig elérhető, viszont nagyon alapvető, mivel csak hiperszövegből állt.
 
 1991 augusztásban Berners-Lee bejelentette a WWW projektjét, mely körül az érdeklődés globális szinten is elkezdett nőni.
