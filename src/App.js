@@ -12,7 +12,7 @@ const App = (props) => {
 
   useEffect(() => {
     fetch(markdownPath).then(res => res.text()).then(res => setMarkdown(res))
-    Prism.highlightAll();
+    setInterval(() => Prism.highlightAll(), 100)
   },[markdownPath])
 
   return (
