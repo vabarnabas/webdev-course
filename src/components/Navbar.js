@@ -45,7 +45,7 @@ const Navbar = (props) => {
     ]
 
     return (
-        <div className='w-full h-12 fixed top-0 left-0 text-textWhite bg-editorDark flex items-center justify-center px-6'>
+        <div className='w-full h-12 fixed top-0 left-0 text-textWhite bg-editorDark flex items-center justify-center px-6 select-none'>
             <div onClick={() => {setShowMenu(false);setMarkdownPath(welcome)}} className="text-xs cursor-pointer mr-auto select-none">
                 <p className="">Webfejlesztés</p>
                 <p className="text-textBlue">Alapjai<span className='text-textYellow'>()</span></p>
