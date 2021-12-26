@@ -1,11 +1,11 @@
 
 # A HTML
 
-A **HTML** (HyperText Markup Language) egy weboldal legkisebb építőeleme. Ez a nyelv kifejezetten az oldalt felépítő elemeket írja le, bármilyen stílus nélkül. A HTML úgynevezett tag-ekből épül fel, melynek a megjelenítése a következő <*tag*>.
+A **HTML** (HyperText Markup Language) egy weboldal legkisebb építőeleme. Ez a nyelv kifejezetten az oldalt felépítő elemeket írja le, bármilyen stílus nélkül és úgynevezett tag-ekből épül fel, melynek a megjelenítése a következő <*tag*>.
 
-Az egyes tag-ek lehetnek lezárást nem igénylőek, ilyen például a <*br*>, ezen felül van olyan, amely önmagát le tudja zárni, mint az <*img*> és léteznek külön pontokon megkezdett és bezárt tag-ek is, mint a <*div*>.
+Az egyes tag-ek lehetnek lezárást nem igénylőek, ilyen például a <*br*>, önmagukat lezáróak, mint az <*img*> és léteznek külön pontokon megkezdett és bezárt tag-ek is, mint a <*div*>.
 
-A HTML egyszerűségével ellentétben rengeteg hasznos tulajdonsággal rendelkezik önmagában is. A nyelv alapismerete fontos, attól függetlenül, hogy milyen eszközökkel szeretné létrehozni az oldalát.
+A HTML egyszerűségével ellentétben rengeteg hasznos tulajdonsággal rendelkezik önmagában is. A nyelv alapismerete fontos, attól függetlenül is, hogy milyen eszközöket használ az ember az oldalának megalkotásához.
 
 ```html
 <!DOCTYPE html>
